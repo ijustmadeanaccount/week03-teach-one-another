@@ -1,4 +1,4 @@
-things to alter in the page
+== Things to alter in the page ==
 * h1
 * div.document
 * div#title
